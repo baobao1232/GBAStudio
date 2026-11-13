@@ -1,0 +1,4 @@
+GBA Studio v12.1
+Universal ROM Asset Studio
+Build: 2026-11-12
+Batch Deep Scan update

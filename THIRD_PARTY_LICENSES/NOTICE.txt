@@ -1,0 +1,15 @@
+Third-party code attribution
+
+ROM-Asset-Extractor
+Copyright (C) 2021 TheJjokerR
+https://github.com/tjtwl/ROM-Asset-Extractor
+License: GNU General Public License v3.0 (GPL-3.0-only / GPL-3.0-or-later as stated by upstream repository).
+
+GBA Studio's Pokémon FireRed profile is a focused Python adaptation of the upstream
+Gen III ROM-reading, LZ77, 4bpp tile, palette, and pointer-table extraction approach.
+The upstream repository is archived. The profile in this application currently
+supports Pokémon FireRed USA (BPRE) species front/back/shiny sprites and trainer
+front sprites only. It is not a full port of the upstream extractor.
+
+The complete GPL-3.0 license text is available at:
+https://www.gnu.org/licenses/gpl-3.0.txt
